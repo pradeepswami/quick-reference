@@ -1,3 +1,3 @@
 # Quick reference
 
-- [Markdown](markdown/mardown.md)
+- [Markdown](markdown/markdown.md)
