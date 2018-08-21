@@ -1,6 +1,6 @@
 # Markdown quick reference
 
-### Head text using structure enhanced text  
+### Header text using structure enhanced text  
 ```
 === First level  
 --- Second level  
