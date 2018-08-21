@@ -103,7 +103,8 @@ The [BBC](https://www.bbc.co.uk/ "BBC title") is a British public service broadc
 Reference link declaration  [ Ref link ]: url
 ```
 
-The [BBC][bbclink] is a British public service broadcaster
+The [BBC][bbclink] is a British public service broadcaster  
+
 [bbclink]:https://www.bbc.co.uk/
 
 ### Reference image link  
@@ -113,10 +114,13 @@ Reference link declaration  [ img link ]: url
 ```
 
 ![Linux][lx1]  
+
 [lx1]:https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/280px-Tux.svg.png
 
-### Inline url link
- < url \>  
+### Inline url link  
+```
+ < url >  
+ ```
  Go to <https://wwww.google.com>
 
 
