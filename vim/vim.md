@@ -1,5 +1,5 @@
 # VIM
-Quick vim referrence
+Quick vim reference
 
 ### Modes
 The VIM has few modes,
