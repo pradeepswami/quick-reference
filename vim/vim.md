@@ -1,4 +1,6 @@
-#VIM
+# VIM
+Quick vim referrence
+
 ### Modes
 The VIM has few modes,
 - Default mode or normal mode, where commands can be entered
